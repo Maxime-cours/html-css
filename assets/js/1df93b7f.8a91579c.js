@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_html_css=self.webpackChunkdocusaurus_html_css||[]).push([[237],{9754:(s,u,t)=>{t.r(u),t.d(u,{default:()=>e});var c=t(6550),r=t(5893);function e(){return(0,r.jsx)(c.l_,{to:"/html/introduction"})}}}]);
